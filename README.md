@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/photocoder01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-<!--     <a href="https://salesp07.github.io" target="_blank"> -->
+    <a href="https://portfolio-pritom.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
